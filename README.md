@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend and backend developer, I have a knowledge of Machin learning with Python. I also doing DSA with java.</h3>
 
 - 🔭 I’m currently working on [MoviesDetails](https://github.com/VivekM8737/MoviesDetails.git)
+- projects:
+- 1. https://try-on-text.vercel.app/
 
 - 📫 How to reach me **avmishra1438@gmail.com**
 
