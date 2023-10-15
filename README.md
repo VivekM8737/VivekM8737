@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [MoviesDetails](https://github.com/VivekM8737/MoviesDetails.git)
 - projects:
 - <h5>1.</h5> https://try-on-text.vercel.app/
-- <h5>2.</h5> https://mynotes-com-q5ba.vercel.app/ (still it have some issues)
+- <h5>2.</h5> https://mynotes-com-q5ba.vercel.app/   (still it have some issues)
 
 - 📫 How to reach me **avmishra1438@gmail.com**
 
